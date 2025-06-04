@@ -51,23 +51,24 @@
             // 
             // panel1
             // 
+            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             panel1.BackColor = Color.FromArgb(59, 89, 152);
             panel1.Controls.Add(btnAgregar);
             panel1.Controls.Add(label1);
             panel1.Controls.Add(pictureBox1);
-            panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(800, 104);
+            panel1.Size = new Size(842, 104);
             panel1.TabIndex = 0;
             // 
             // btnAgregar
             // 
+            btnAgregar.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnAgregar.BackColor = Color.SteelBlue;
             btnAgregar.BackgroundImage = Properties.Resources.add_friend_9055014;
             btnAgregar.BackgroundImageLayout = ImageLayout.Stretch;
             btnAgregar.FlatStyle = FlatStyle.Flat;
-            btnAgregar.Location = new Point(709, 12);
+            btnAgregar.Location = new Point(751, 12);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(79, 74);
             btnAgregar.TabIndex = 2;
@@ -76,10 +77,11 @@
             // 
             // label1
             // 
+            label1.Anchor = AnchorStyles.Top;
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.FromArgb(238, 238, 238);
-            label1.Location = new Point(351, 30);
+            label1.Location = new Point(372, 30);
             label1.Name = "label1";
             label1.Size = new Size(189, 31);
             label1.TabIndex = 1;
@@ -98,6 +100,7 @@
             // 
             // panel2
             // 
+            panel2.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             panel2.Controls.Add(btnAutoCompletarNombreDeUsuari);
             panel2.Controls.Add(cmbTipoDeUsuario);
             panel2.Controls.Add(txtNombreUsurio);
@@ -109,17 +112,17 @@
             panel2.Controls.Add(label3);
             panel2.Controls.Add(txtNombreCompleto);
             panel2.Controls.Add(label2);
-            panel2.Dock = DockStyle.Fill;
             panel2.Location = new Point(0, 104);
             panel2.Name = "panel2";
-            panel2.Size = new Size(800, 230);
+            panel2.Size = new Size(842, 230);
             panel2.TabIndex = 1;
             // 
             // btnAutoCompletarNombreDeUsuari
             // 
+            btnAutoCompletarNombreDeUsuari.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnAutoCompletarNombreDeUsuari.BackgroundImage = Properties.Resources.appearance_9917494;
             btnAutoCompletarNombreDeUsuari.BackgroundImageLayout = ImageLayout.Stretch;
-            btnAutoCompletarNombreDeUsuari.Location = new Point(745, 28);
+            btnAutoCompletarNombreDeUsuari.Location = new Point(787, 28);
             btnAutoCompletarNombreDeUsuari.Name = "btnAutoCompletarNombreDeUsuari";
             btnAutoCompletarNombreDeUsuari.Size = new Size(43, 35);
             btnAutoCompletarNombreDeUsuari.TabIndex = 3;
@@ -127,25 +130,28 @@
             // 
             // cmbTipoDeUsuario
             // 
+            cmbTipoDeUsuario.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             cmbTipoDeUsuario.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbTipoDeUsuario.FormattingEnabled = true;
             cmbTipoDeUsuario.Items.AddRange(new object[] { "Administrador", "Cajero" });
             cmbTipoDeUsuario.Location = new Point(165, 156);
             cmbTipoDeUsuario.Name = "cmbTipoDeUsuario";
-            cmbTipoDeUsuario.Size = new Size(174, 28);
+            cmbTipoDeUsuario.Size = new Size(216, 28);
             cmbTipoDeUsuario.TabIndex = 2;
             // 
             // txtNombreUsurio
             // 
-            txtNombreUsurio.Location = new Point(520, 28);
+            txtNombreUsurio.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            txtNombreUsurio.Location = new Point(562, 28);
             txtNombreUsurio.Name = "txtNombreUsurio";
             txtNombreUsurio.Size = new Size(209, 27);
             txtNombreUsurio.TabIndex = 1;
             // 
             // lblNombreUsuari
             // 
+            lblNombreUsuari.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             lblNombreUsuari.AutoSize = true;
-            lblNombreUsuari.Location = new Point(349, 30);
+            lblNombreUsuari.Location = new Point(391, 30);
             lblNombreUsuari.Name = "lblNombreUsuari";
             lblNombreUsuari.Size = new Size(139, 20);
             lblNombreUsuari.TabIndex = 0;
@@ -153,15 +159,17 @@
             // 
             // txtConfirmarContrasena
             // 
-            txtConfirmarContrasena.Location = new Point(520, 102);
+            txtConfirmarContrasena.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            txtConfirmarContrasena.Location = new Point(562, 102);
             txtConfirmarContrasena.Name = "txtConfirmarContrasena";
             txtConfirmarContrasena.Size = new Size(209, 27);
             txtConfirmarContrasena.TabIndex = 1;
             // 
             // label4
             // 
+            label4.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             label4.AutoSize = true;
-            label4.Location = new Point(349, 105);
+            label4.Location = new Point(391, 105);
             label4.Name = "label4";
             label4.Size = new Size(153, 20);
             label4.TabIndex = 0;
@@ -169,9 +177,10 @@
             // 
             // txtContrasena
             // 
+            txtContrasena.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             txtContrasena.Location = new Point(165, 98);
             txtContrasena.Name = "txtContrasena";
-            txtContrasena.Size = new Size(174, 27);
+            txtContrasena.Size = new Size(216, 27);
             txtContrasena.TabIndex = 1;
             // 
             // label5
@@ -194,9 +203,10 @@
             // 
             // txtNombreCompleto
             // 
+            txtNombreCompleto.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             txtNombreCompleto.Location = new Point(165, 24);
             txtNombreCompleto.Name = "txtNombreCompleto";
-            txtNombreCompleto.Size = new Size(174, 27);
+            txtNombreCompleto.Size = new Size(216, 27);
             txtNombreCompleto.TabIndex = 1;
             // 
             // label2
@@ -212,7 +222,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 334);
+            ClientSize = new Size(842, 334);
             Controls.Add(panel2);
             Controls.Add(panel1);
             Name = "AgregarUsuarioFromcs";
@@ -230,18 +240,18 @@
         private Panel panel1;
         private Label label1;
         private PictureBox pictureBox1;
+        private Button btnAgregar;
         private Panel panel2;
+        private Button btnAutoCompletarNombreDeUsuari;
+        private ComboBox cmbTipoDeUsuario;
         private TextBox txtNombreUsurio;
         private Label lblNombreUsuari;
-        private TextBox txtNombreCompleto;
-        private Label label2;
-        private Button btnAgregar;
-        private ComboBox cmbTipoDeUsuario;
         private TextBox txtConfirmarContrasena;
         private Label label4;
         private TextBox txtContrasena;
         private Label label5;
         private Label label3;
-        private Button btnAutoCompletarNombreDeUsuari;
+        private TextBox txtNombreCompleto;
+        private Label label2;
     }
 }

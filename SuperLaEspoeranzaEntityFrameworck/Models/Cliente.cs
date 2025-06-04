@@ -12,8 +12,8 @@ namespace SuperLaEspoeranzaEntityFrameworck.Models
         public string? Nombre { get; set; }
         public string? Telefono { get; set; }
         public string? Direccion { get; set; }
-        public string TipoMembresia { get; set; }
-        public bool? MembresiaEstado { get; set; }
+        public string TipoMenbresia { get; set; }
+        public bool? MenbresiaEstado { get; set; }
         public byte[]? Foto { get; set; }
         public int? PuntosCompra { get; set; }
 

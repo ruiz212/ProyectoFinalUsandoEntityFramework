@@ -61,6 +61,7 @@
             // 
             // panel1
             // 
+            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
             panel1.BackColor = Color.FromArgb(59, 89, 152);
             panel1.Controls.Add(pctbAgregarUsuario);
             panel1.Controls.Add(pctbAgregarCliente);
@@ -70,7 +71,6 @@
             panel1.Controls.Add(btnHacerVenta);
             panel1.Controls.Add(label1);
             panel1.Controls.Add(pictureBox1);
-            panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(342, 538);
@@ -79,17 +79,18 @@
             // pctbAgregarUsuario
             // 
             pctbAgregarUsuario.Image = Properties.Resources.social__1_;
-            pctbAgregarUsuario.Location = new Point(67, 312);
+            pctbAgregarUsuario.Location = new Point(63, 328);
             pctbAgregarUsuario.Name = "pctbAgregarUsuario";
             pctbAgregarUsuario.Size = new Size(49, 35);
             pctbAgregarUsuario.SizeMode = PictureBoxSizeMode.StretchImage;
             pctbAgregarUsuario.TabIndex = 3;
             pctbAgregarUsuario.TabStop = false;
+            pctbAgregarUsuario.Click += btnAgregarUsuario_Click;
             // 
             // pctbAgregarCliente
             // 
-            pctbAgregarCliente.Image = Properties.Resources.payment;
-            pctbAgregarCliente.Location = new Point(67, 251);
+            pctbAgregarCliente.Image = Properties.Resources.credit_card_9964182;
+            pctbAgregarCliente.Location = new Point(63, 267);
             pctbAgregarCliente.Name = "pctbAgregarCliente";
             pctbAgregarCliente.Size = new Size(49, 35);
             pctbAgregarCliente.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -99,7 +100,7 @@
             // pctbHacerVenta
             // 
             pctbHacerVenta.Image = Properties.Resources.shopping_bag__3_;
-            pctbHacerVenta.Location = new Point(67, 181);
+            pctbHacerVenta.Location = new Point(63, 197);
             pctbHacerVenta.Name = "pctbHacerVenta";
             pctbHacerVenta.Size = new Size(49, 35);
             pctbHacerVenta.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -108,10 +109,11 @@
             // 
             // btnAgregarUsuario
             // 
+            btnAgregarUsuario.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             btnAgregarUsuario.FlatStyle = FlatStyle.Flat;
             btnAgregarUsuario.Font = new Font("Segoe UI", 10.2F);
             btnAgregarUsuario.ForeColor = Color.FromArgb(238, 238, 238);
-            btnAgregarUsuario.Location = new Point(143, 312);
+            btnAgregarUsuario.Location = new Point(139, 328);
             btnAgregarUsuario.Name = "btnAgregarUsuario";
             btnAgregarUsuario.Size = new Size(181, 35);
             btnAgregarUsuario.TabIndex = 2;
@@ -121,22 +123,25 @@
             // 
             // btnAgregarCliente
             // 
+            btnAgregarCliente.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             btnAgregarCliente.FlatStyle = FlatStyle.Flat;
             btnAgregarCliente.Font = new Font("Segoe UI", 10.2F);
             btnAgregarCliente.ForeColor = Color.FromArgb(238, 238, 238);
-            btnAgregarCliente.Location = new Point(143, 251);
+            btnAgregarCliente.Location = new Point(139, 267);
             btnAgregarCliente.Name = "btnAgregarCliente";
             btnAgregarCliente.Size = new Size(181, 35);
             btnAgregarCliente.TabIndex = 2;
             btnAgregarCliente.Text = "Agregar Menbrecia";
             btnAgregarCliente.UseVisualStyleBackColor = true;
+            btnAgregarCliente.Click += btnAgregarCliente_Click;
             // 
             // btnHacerVenta
             // 
+            btnHacerVenta.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             btnHacerVenta.FlatStyle = FlatStyle.Flat;
             btnHacerVenta.Font = new Font("Segoe UI", 10.2F);
             btnHacerVenta.ForeColor = Color.FromArgb(238, 238, 238);
-            btnHacerVenta.Location = new Point(143, 181);
+            btnHacerVenta.Location = new Point(139, 197);
             btnHacerVenta.Name = "btnHacerVenta";
             btnHacerVenta.Size = new Size(181, 35);
             btnHacerVenta.TabIndex = 2;
@@ -145,6 +150,7 @@
             // 
             // label1
             // 
+            label1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.FromArgb(238, 238, 238);
@@ -157,7 +163,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.icons8_tienda_96;
-            pictureBox1.Location = new Point(29, 46);
+            pictureBox1.Location = new Point(29, 38);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(80, 72);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -166,12 +172,12 @@
             // 
             // panel2
             // 
+            panel2.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             panel2.BackColor = Color.SteelBlue;
             panel2.Controls.Add(menuStrip1);
-            panel2.Dock = DockStyle.Top;
             panel2.Location = new Point(342, 0);
             panel2.Name = "panel2";
-            panel2.Size = new Size(843, 51);
+            panel2.Size = new Size(786, 51);
             panel2.TabIndex = 1;
             // 
             // menuStrip1
@@ -182,7 +188,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { mostrarUsuarioToolStripMenuItem, mostrarMenbersToolStripMenuItem, agregarProveedorToolStripMenuItem, agregarProductoToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(843, 28);
+            menuStrip1.Size = new Size(786, 28);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -212,13 +218,13 @@
             // 
             // panel3
             // 
+            panel3.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             panel3.BackColor = Color.SteelBlue;
             panel3.Controls.Add(lblSaludo);
             panel3.Controls.Add(pctbImagenSaludo);
-            panel3.Dock = DockStyle.Top;
             panel3.Location = new Point(342, 51);
             panel3.Name = "panel3";
-            panel3.Size = new Size(843, 59);
+            panel3.Size = new Size(786, 59);
             panel3.TabIndex = 2;
             // 
             // lblSaludo
@@ -243,25 +249,25 @@
             // 
             // panel4
             // 
-            panel4.Dock = DockStyle.Bottom;
+            panel4.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             panel4.Location = new Point(342, 503);
             panel4.Name = "panel4";
-            panel4.Size = new Size(843, 35);
+            panel4.Size = new Size(786, 35);
             panel4.TabIndex = 3;
             // 
             // panelDisplay
             // 
-            panelDisplay.Dock = DockStyle.Fill;
+            panelDisplay.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panelDisplay.Location = new Point(342, 110);
             panelDisplay.Name = "panelDisplay";
-            panelDisplay.Size = new Size(843, 393);
+            panelDisplay.Size = new Size(786, 393);
             panelDisplay.TabIndex = 4;
             // 
             // MenuPrinsipalForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1185, 538);
+            ClientSize = new Size(1128, 538);
             Controls.Add(panelDisplay);
             Controls.Add(panel4);
             Controls.Add(panel3);

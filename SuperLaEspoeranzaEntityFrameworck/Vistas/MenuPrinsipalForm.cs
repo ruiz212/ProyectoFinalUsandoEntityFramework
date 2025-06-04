@@ -52,5 +52,17 @@ namespace SuperLaEspoeranzaEntityFrameworck.Vistas
             panelDisplay.Controls.Add(agregarUsuarioFromcs);
             agregarUsuarioFromcs.Show();
         }
+
+        private void btnAgregarCliente_Click(object sender, EventArgs e)
+        {
+            panelDisplay.Controls.Clear();
+            AgregarClienteForm agregarClienteForm = new AgregarClienteForm();
+            agregarClienteForm.TopLevel = false;
+            agregarClienteForm.FormBorderStyle = FormBorderStyle.None;
+            agregarClienteForm.FormBorderStyle = FormBorderStyle.None;
+            agregarClienteForm.Dock = DockStyle.Fill;
+            panelDisplay.Controls.Add(agregarClienteForm);
+            agregarClienteForm.Show();
+        }
     }
 }

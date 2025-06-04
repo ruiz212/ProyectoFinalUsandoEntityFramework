@@ -32,7 +32,7 @@ namespace SuperLaEspoeranzaEntityFrameworck.Controlador
        
 
         // Paso 2: Modificar el método para recibir un solo parámetro de tipo UsuarioDto
-        public void AgregarUsuario(UsuarioDto usuarioDto)
+        public void AgregarUsuario(UsuarioDOT usuarioDto)
         {
             var nuevoUsuario = new Models.Usuario
             {

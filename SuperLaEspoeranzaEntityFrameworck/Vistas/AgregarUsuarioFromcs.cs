@@ -32,7 +32,7 @@ namespace SuperLaEspoeranzaEntityFrameworck.Vistas
                 string TipoDeUsuario = cmbTipoDeUsuario.SelectedItem.ToString();
                 bool estado = true;
 
-                usuarioDbq.AgregarUsuario( new DOTs.UsuarioDto
+                usuarioDbq.AgregarUsuario( new DOTs.UsuarioDOT
                 {
                     IdUsuario = idUsuario,
                     NombreCompleto = nombreCompleto,

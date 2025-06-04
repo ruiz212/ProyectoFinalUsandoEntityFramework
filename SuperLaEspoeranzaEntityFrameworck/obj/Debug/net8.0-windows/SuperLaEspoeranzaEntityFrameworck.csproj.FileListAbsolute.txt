@@ -147,3 +147,4 @@ C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaE
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Krypton.Toolkit.Suite.Extended.Circular.ProgressBar.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\WinFormAnimation_NET5.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarUsuarioFromcs.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarClienteForm.resources

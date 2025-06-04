@@ -93,6 +93,26 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap card_16277815 {
+            get {
+                object obj = ResourceManager.GetObject("card_16277815", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap credit_card_9964182 {
+            get {
+                object obj = ResourceManager.GetObject("credit-card_9964182", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap descarga__1_ {
             get {
                 object obj = ResourceManager.GetObject("descarga (1)", resourceCulture);
@@ -166,6 +186,16 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         internal static System.Drawing.Bitmap payment {
             get {
                 object obj = ResourceManager.GetObject("payment", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap profile_11820363 {
+            get {
+                object obj = ResourceManager.GetObject("profile_11820363", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

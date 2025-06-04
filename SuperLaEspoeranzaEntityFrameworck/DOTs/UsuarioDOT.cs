@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperLaEspoeranzaEntityFrameworck.DOTs
 {
-    public class UsuarioDto
+    public class UsuarioDOT
     {
         public string IdUsuario { get; set; }
         public string NombreCompleto { get; set; }
