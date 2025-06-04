@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\vistas\\agregarusuariofromcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\vistas\\agregarusuariofromcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\vistas\\agregarusuariofromcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\vistas\\agregarusuariofromcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\vistas\\menuprinsipalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\vistas\\menuprinsipalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\controlador\\usuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\controlador\\usuariodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\vistas\\menuprinsipalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\vistas\\menuprinsipalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\dots\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\dots\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\utilidades\\saludoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\utilidades\\saludoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\data\\superlaesperanzadbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\data\\superlaesperanzadbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|c:\\users\\miure\\source\\repos\\superlaespoeranzaentityframeworck\\superlaespoeranzaentityframeworck\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C2B11-E228-4CAB-A44A-6D321D265A39}|SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj|solutionrelative:superlaespoeranzaentityframeworck\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioDb.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Controlador\\UsuarioDb.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Controlador\\UsuarioDb.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Controlador\\UsuarioDb.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Controlador\\UsuarioDb.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SuperLaEspoeranzaEntityFrameworck\\Controlador",
+              "WhenOpened": "2025-06-03T23:47:30.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:25:34.138Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPrinsipalForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T00:11:15.09Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Factura.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:59:48.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Program.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Program.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Program.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:24:02.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\DOTs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\DOTs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\DOTs\\UsuarioDTO.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\DOTs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:35:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarUsuarioFromcs.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs*",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:13:10.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarUsuarioFromcs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\AgregarUsuarioFromcs.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:02:12.529Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuPrinsipalForm.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\MenuPrinsipalForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:39:56.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaludoForm.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Utilidades\\SaludoForm.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Utilidades\\SaludoForm.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Utilidades\\SaludoForm.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Utilidades\\SaludoForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:34:14.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Vistas\\LogInForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwD4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:46:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Cliente.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:12:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SuperLaEsperanzaDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Data\\SuperLaEsperanzaDbContex.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Data\\SuperLaEsperanzaDbContex.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Data\\SuperLaEsperanzaDbContex.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Data\\SuperLaEsperanzaDbContex.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:06:00.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Usuario.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:04:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Proveedor.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:03:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Producto.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:01:12.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Movimiento.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:00:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:59:08.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleCompra.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\DetalleCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:58:17.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Compra.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:57:31.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Categorias.cs",
+              "RelativeDocumentMoniker": "SuperLaEspoeranzaEntityFrameworck\\Models\\Categorias.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\Models\\Categorias.cs",
+              "RelativeToolTip": "SuperLaEspoeranzaEntityFrameworck\\Models\\Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SuperLaEspoeranzaEntityFrameworck\\Models",
+              "WhenOpened": "2025-06-03T22:56:06.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

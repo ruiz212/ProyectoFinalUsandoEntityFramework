@@ -1,0 +1,73 @@
+﻿using SuperFacturacion.CONTROLADOR;
+using SuperLaEspoeranzaEntityFrameworck.Controlador;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace SuperLaEspoeranzaEntityFrameworck.Vistas
+{
+    public partial class AgregarUsuarioFromcs : Form
+    {
+        UsuarioDb usuarioDbq;
+        public AgregarUsuarioFromcs()
+        {
+            InitializeComponent();
+            usuarioDbq = new UsuarioDb();
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            if(!Verificar(txtNombreCompleto,txtNombreUsurio, txtContrasena,txtConfirmarContrasena, cmbTipoDeUsuario))
+            {
+                string idUsuario = IdGenerator.IdGenerates();
+                string nombreCompleto = txtNombreCompleto.Text;
+                string nombreDeUsuario = txtNombreUsurio.Text;
+                string contrasena = txtContrasena.Text;
+                string TipoDeUsuario = cmbTipoDeUsuario.SelectedItem.ToString();
+                bool estado = true;
+
+                usuarioDbq.AgregarUsuario( new DOTs.UsuarioDto
+                {
+                    IdUsuario = idUsuario,
+                    NombreCompleto = nombreCompleto,
+                    UsuarioNombre = nombreDeUsuario,
+                    Clave = contrasena,
+                    Rol = TipoDeUsuario,
+                    Estado = estado
+                });
+                MessageBox.Show("Usuario agregado correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            }
+        }
+
+        private bool Verificar(TextBox txtNombreCompleto, TextBox txtNombreDeUsuario, TextBox txtContrasena, TextBox txtConfirmarContrasena, ComboBox cmbTipoDeUsuario)
+        {
+            if (string.IsNullOrEmpty(txtNombreCompleto.Text) || string.IsNullOrEmpty(txtNombreUsurio.Text) ||string.IsNullOrEmpty(txtContrasena.Text) || string.IsNullOrEmpty(txtConfirmarContrasena.Text) || cmbTipoDeUsuario.SelectedIndex == -1)
+            {
+                MessageBox.Show("Por favor, complete todos los campos.", "Campos incompletos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+            else if (txtContrasena.Text != txtConfirmarContrasena.Text)
+            {
+                MessageBox.Show("Las contraseñas no coinciden.", "Error de contraseña", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+           
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
