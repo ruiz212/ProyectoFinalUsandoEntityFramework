@@ -28,10 +28,7 @@ namespace SuperLaEspoeranzaEntityFrameworck.Controlador
 
         }
 
-        // Paso 1: Crear una clase DTO para encapsular los datos del usuario
        
-
-        // Paso 2: Modificar el método para recibir un solo parámetro de tipo UsuarioDto
         public void AgregarUsuario(UsuarioDOT usuarioDto)
         {
             var nuevoUsuario = new Models.Usuario
