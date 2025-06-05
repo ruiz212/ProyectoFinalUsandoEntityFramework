@@ -9,12 +9,12 @@ namespace SuperLaEspoeranzaEntityFrameworck.Models
     public class Compra
     {
         public string IdCompra { get; set; }
-        public DateTime? FechaCompra { get; set; }
-        public decimal? Total { get; set; }
-        public string? IdProveedor { get; set; } // Clave foránea
+        public DateTime FechaCompra { get; set; }
+        public decimal Total { get; set; }
 
-        // Propiedad de navegación
-        public Proveedor? Proveedor { get; set; }
-        public ICollection<DetalleCompra> DetalleCompras { get; set; } = new List<DetalleCompra>();
+        public string IdProveedor { get; set; }
+        public Proveedor Proveedor { get; set; }
+
+        public ICollection<DetalleCompra> DetallesCompra { get; set; }
     }
 }

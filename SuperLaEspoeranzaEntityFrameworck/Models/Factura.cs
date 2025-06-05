@@ -9,16 +9,17 @@ namespace SuperLaEspoeranzaEntityFrameworck.Models
     public class Factura
     {
         public string IdFactura { get; set; }
-        public DateTime? Fecha { get; set; }
-        public decimal? Subtotal { get; set; }
-        public decimal? Impuesto { get; set; }
-        public decimal? Total { get; set; }
-        public string? IdUsuario { get; set; } // Clave foránea
-        public string? IdCliente { get; set; } // Clave foránea
+        public DateTime Fecha { get; set; }
+        public decimal Subtotal { get; set; }
+        public decimal Impuesto { get; set; }
+        public decimal Total { get; set; }
 
-        // Propiedades de navegación
-        public Usuario? Usuario { get; set; }
-        public Cliente? Cliente { get; set; }
-        public ICollection<DetalleFactura> DetalleFacturas { get; set; } = new List<DetalleFactura>();
+        public string IdUsuario { get; set; }
+        public Usuario Usuario { get; set; }
+
+        public string IdCliente { get; set; }
+        public Cliente Cliente { get; set; }
+
+        public ICollection<DetalleFactura> DetallesFactura { get; set; }
     }
 }
