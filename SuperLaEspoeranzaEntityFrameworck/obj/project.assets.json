@@ -4851,23 +4851,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\miure\\.nuget\\packages\\": {},
+    "C:\\Users\\arana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj",
+      "projectUniqueName": "C:\\Users\\arana\\Source\\Repos\\ProyectoFinalUsandoEntityFramework\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj",
       "projectName": "SuperLaEspoeranzaEntityFrameworck",
-      "projectPath": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj",
-      "packagesPath": "C:\\Users\\miure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miure\\source\\repos\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck\\obj\\",
+      "projectPath": "C:\\Users\\arana\\Source\\Repos\\ProyectoFinalUsandoEntityFramework\\SuperLaEspoeranzaEntityFrameworck\\SuperLaEspoeranzaEntityFrameworck.csproj",
+      "packagesPath": "C:\\Users\\arana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arana\\Source\\Repos\\ProyectoFinalUsandoEntityFramework\\SuperLaEspoeranzaEntityFrameworck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\miure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4876,7 +4876,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4895,7 +4894,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -4935,7 +4934,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
