@@ -10,16 +10,16 @@ namespace SuperLaEspoeranzaEntityFrameworck.Data
 {
     public class SuperLaEsperanzaDbContex : DbContext
     {
-        public DbSet<Cliente> Clientes { get; set; }
-        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Cliente> Cliente { get; set; }
+        public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Compra> Compras { get; set; }
         public DbSet<DetalleCompra> DetalleCompras { get; set; }
         public DbSet<DetalleFactura> DetalleFacturas { get; set; }
         public DbSet<Factura> Facturas { get; set; }
         public DbSet<Movimiento> Movimientos { get; set; }
         public DbSet<Producto> Productos { get; set; }
-        public DbSet<Proveedor> Proveedores { get; set; }
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Proveedor> Proveedor { get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -32,7 +32,7 @@ namespace SuperLaEspoeranzaEntityFrameworck.Data
             // Filtro global para entidades con campo Estado
           
 
-            modelBuilder.Entity<Usuario>().HasQueryFilter(u => u.Estado == true);
+           // modelBuilder.Entity<Usuario>().HasQueryFilter(u => u.Estado == true);
             modelBuilder.Entity<Proveedor>().HasQueryFilter(p => p.Estado == true);
             modelBuilder.Entity<Producto>().HasQueryFilter(p => p.Estado == true);
             //Configuracion de claves primarias

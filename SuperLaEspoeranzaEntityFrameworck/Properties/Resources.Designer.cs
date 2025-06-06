@@ -63,6 +63,26 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap add_1125728 {
+            get {
+                object obj = ResourceManager.GetObject("add_1125728", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap add_cart_7362560 {
+            get {
+                object obj = ResourceManager.GetObject("add-cart_7362560", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap add_document {
             get {
                 object obj = ResourceManager.GetObject("add-document", resourceCulture);
@@ -103,6 +123,26 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap chart_16046686 {
+            get {
+                object obj = ResourceManager.GetObject("chart_16046686", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap chest_7481822 {
+            get {
+                object obj = ResourceManager.GetObject("chest_7481822", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap credit_card_9964182 {
             get {
                 object obj = ResourceManager.GetObject("credit-card_9964182", resourceCulture);
@@ -126,6 +166,16 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         internal static System.Drawing.Bitmap diskette_16087546__1_ {
             get {
                 object obj = ResourceManager.GetObject("diskette_16087546 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap good_review_900455 {
+            get {
+                object obj = ResourceManager.GetObject("good-review_900455", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,6 +243,16 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pen_4713222 {
+            get {
+                object obj = ResourceManager.GetObject("pen_4713222", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap profile_11820363 {
             get {
                 object obj = ResourceManager.GetObject("profile_11820363", resourceCulture);
@@ -206,6 +266,16 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         internal static System.Drawing.Bitmap security_15654567 {
             get {
                 object obj = ResourceManager.GetObject("security_15654567", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap settings_1903338 {
+            get {
+                object obj = ResourceManager.GetObject("settings_1903338", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +303,39 @@ namespace SuperLaEspoeranzaEntityFrameworck.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap switch_3293669 {
+            get {
+                object obj = ResourceManager.GetObject("switch_3293669", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap user_10976048 {
             get {
                 object obj = ResourceManager.GetObject("user_10976048", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_16470397 {
+            get {
+                object obj = ResourceManager.GetObject("user_16470397", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_164703971 {
+            get {
+                object obj = ResourceManager.GetObject("user_164703971", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

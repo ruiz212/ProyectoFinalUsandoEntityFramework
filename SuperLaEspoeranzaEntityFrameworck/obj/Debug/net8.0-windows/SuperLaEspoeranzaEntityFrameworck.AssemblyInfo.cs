@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperLaEspoeranzaEntityFrameworck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a8f610862d799a17ca2c18987134ccae8282983")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+134a86114a0ba8e0590324638c80b1073eef9f5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperLaEspoeranzaEntityFrameworck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperLaEspoeranzaEntityFrameworck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

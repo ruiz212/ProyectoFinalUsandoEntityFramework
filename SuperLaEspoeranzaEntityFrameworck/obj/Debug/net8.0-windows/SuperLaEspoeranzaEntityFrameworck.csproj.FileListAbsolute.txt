@@ -6,6 +6,8 @@ C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaE
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Azure.Core.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Azure.Identity.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Krypton.Toolkit.dll
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Krypton.Toolkit.Suite.Extended.Circular.ProgressBar.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
@@ -54,6 +56,7 @@ C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaE
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\WinFormAnimation_NET5.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
@@ -129,7 +132,12 @@ C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaE
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.csproj.AssemblyReference.cache
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Properties.Resources.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarClienteForm.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarUsuarioFromcs.resources
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.LogInForm.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.MenuPrinsipalForm.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.VerClienteForm.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.VerUsuarioForm.resources
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.csproj.GenerateResource.cache
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.AssemblyInfoInputs.cache
@@ -142,9 +150,6 @@ C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaE
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.pdb
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.genruntimeconfig.cache
 C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\ref\SuperLaEspoeranzaEntityFrameworck.dll
-C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.MenuPrinsipalForm.resources
-C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Krypton.Toolkit.dll
-C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\Krypton.Toolkit.Suite.Extended.Circular.ProgressBar.dll
-C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\bin\Debug\net8.0-windows\WinFormAnimation_NET5.dll
-C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarUsuarioFromcs.resources
-C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarClienteForm.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarProveedorForm.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarCategoraForm.resources
+C:\Users\miure\source\repos\SuperLaEspoeranzaEntityFrameworck\SuperLaEspoeranzaEntityFrameworck\obj\Debug\net8.0-windows\SuperLaEspoeranzaEntityFrameworck.Vistas.AgregarProductoForm.resources

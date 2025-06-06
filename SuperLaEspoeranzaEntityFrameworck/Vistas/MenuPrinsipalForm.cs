@@ -64,5 +64,48 @@ namespace SuperLaEspoeranzaEntityFrameworck.Vistas
             panelDisplay.Controls.Add(agregarClienteForm);
             agregarClienteForm.Show();
         }
+
+        private void mostrarUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            panelDisplay.Controls.Clear();
+            VerUsuarioForm mostrarUsuarioForm = new VerUsuarioForm();
+            mostrarUsuarioForm.TopLevel = false;
+            mostrarUsuarioForm.FormBorderStyle = FormBorderStyle.None;
+            mostrarUsuarioForm.Dock = DockStyle.Fill;
+            panelDisplay.Controls.Add(mostrarUsuarioForm);
+            mostrarUsuarioForm.Show();
+
+        }
+
+        private void mostrarMenbersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            panelDisplay.Controls.Clear();
+            VerClienteForm mostrarClienteForm = new VerClienteForm();
+            mostrarClienteForm.TopLevel = false;
+            mostrarClienteForm.FormBorderStyle = FormBorderStyle.None;
+            mostrarClienteForm.Dock = DockStyle.Fill;
+            panelDisplay.Controls.Add(mostrarClienteForm);
+            mostrarClienteForm.Show();
+        }
+
+      
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+
+
+        private void agregarProductoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            panelDisplay.Controls.Clear();
+            AgregarProductoForm agregarProductoForm = new AgregarProductoForm();
+            agregarProductoForm.TopLevel = false;
+            agregarProductoForm.FormBorderStyle = FormBorderStyle.None;
+            agregarProductoForm.Dock = DockStyle.Fill;
+            panelDisplay.Controls.Add(agregarProductoForm);
+            agregarProductoForm.Show();
+        }
     }
 }

@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace SuperFacturacion.CONTROLADOR
 {
-    public class UserNameGenerator
+
+    public class Autocompletado
     {
         private static Random random = new Random();
-        public  string UserGenerato(string nombreCompleto)
+        public static  string UserGenerator(string nombreCompleto)
         {
             string digitos = random.Next(1000, 9999).ToString();
 

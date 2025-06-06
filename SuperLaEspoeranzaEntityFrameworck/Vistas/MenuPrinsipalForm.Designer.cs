@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuPrinsipalForm));
             panel1 = new Panel();
             pctbAgregarUsuario = new PictureBox();
             pctbAgregarCliente = new PictureBox();
@@ -40,8 +41,10 @@
             panel2 = new Panel();
             menuStrip1 = new MenuStrip();
             mostrarUsuarioToolStripMenuItem = new ToolStripMenuItem();
+            verUsuarioToolStripMenuItem = new ToolStripMenuItem();
+            editarCategoriaToolStripMenuItem = new ToolStripMenuItem();
+            editarProveedorToolStripMenuItem = new ToolStripMenuItem();
             mostrarMenbersToolStripMenuItem = new ToolStripMenuItem();
-            agregarProveedorToolStripMenuItem = new ToolStripMenuItem();
             agregarProductoToolStripMenuItem = new ToolStripMenuItem();
             panel3 = new Panel();
             lblSaludo = new Label();
@@ -177,7 +180,7 @@
             panel2.Controls.Add(menuStrip1);
             panel2.Location = new Point(342, 0);
             panel2.Name = "panel2";
-            panel2.Size = new Size(786, 51);
+            panel2.Size = new Size(840, 51);
             panel2.TabIndex = 1;
             // 
             // menuStrip1
@@ -185,36 +188,56 @@
             menuStrip1.BackColor = Color.SteelBlue;
             menuStrip1.Font = new Font("Segoe UI", 9F);
             menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { mostrarUsuarioToolStripMenuItem, mostrarMenbersToolStripMenuItem, agregarProveedorToolStripMenuItem, agregarProductoToolStripMenuItem });
+            menuStrip1.Items.AddRange(new ToolStripItem[] { mostrarUsuarioToolStripMenuItem, mostrarMenbersToolStripMenuItem, agregarProductoToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(786, 28);
+            menuStrip1.Size = new Size(840, 31);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
+            menuStrip1.ItemClicked += menuStrip1_ItemClicked;
             // 
             // mostrarUsuarioToolStripMenuItem
             // 
+            mostrarUsuarioToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { verUsuarioToolStripMenuItem, editarCategoriaToolStripMenuItem, editarProveedorToolStripMenuItem });
+            mostrarUsuarioToolStripMenuItem.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
             mostrarUsuarioToolStripMenuItem.Name = "mostrarUsuarioToolStripMenuItem";
-            mostrarUsuarioToolStripMenuItem.Size = new Size(128, 24);
-            mostrarUsuarioToolStripMenuItem.Text = "Mostrar Usuario";
+            mostrarUsuarioToolStripMenuItem.Size = new Size(141, 27);
+            mostrarUsuarioToolStripMenuItem.Text = "Administrador";
+            // 
+            // verUsuarioToolStripMenuItem
+            // 
+            verUsuarioToolStripMenuItem.Name = "verUsuarioToolStripMenuItem";
+            verUsuarioToolStripMenuItem.Size = new Size(224, 26);
+            verUsuarioToolStripMenuItem.Text = "Ver Usuario";
+            verUsuarioToolStripMenuItem.Click += mostrarUsuarioToolStripMenuItem_Click;
+            // 
+            // editarCategoriaToolStripMenuItem
+            // 
+            editarCategoriaToolStripMenuItem.Name = "editarCategoriaToolStripMenuItem";
+            editarCategoriaToolStripMenuItem.Size = new Size(224, 26);
+            editarCategoriaToolStripMenuItem.Text = "Editar categoria";
+            // 
+            // editarProveedorToolStripMenuItem
+            // 
+            editarProveedorToolStripMenuItem.Name = "editarProveedorToolStripMenuItem";
+            editarProveedorToolStripMenuItem.Size = new Size(224, 26);
+            editarProveedorToolStripMenuItem.Text = "Editar Proveedor";
             // 
             // mostrarMenbersToolStripMenuItem
             // 
+            mostrarMenbersToolStripMenuItem.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
             mostrarMenbersToolStripMenuItem.Name = "mostrarMenbersToolStripMenuItem";
-            mostrarMenbersToolStripMenuItem.Size = new Size(135, 24);
+            mostrarMenbersToolStripMenuItem.Size = new Size(161, 27);
             mostrarMenbersToolStripMenuItem.Text = "Mostrar Menbers";
-            // 
-            // agregarProveedorToolStripMenuItem
-            // 
-            agregarProveedorToolStripMenuItem.Name = "agregarProveedorToolStripMenuItem";
-            agregarProveedorToolStripMenuItem.Size = new Size(150, 24);
-            agregarProveedorToolStripMenuItem.Text = "Agregar proveedor";
+            mostrarMenbersToolStripMenuItem.Click += mostrarMenbersToolStripMenuItem_Click;
             // 
             // agregarProductoToolStripMenuItem
             // 
+            agregarProductoToolStripMenuItem.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
             agregarProductoToolStripMenuItem.Name = "agregarProductoToolStripMenuItem";
-            agregarProductoToolStripMenuItem.Size = new Size(141, 24);
+            agregarProductoToolStripMenuItem.Size = new Size(168, 27);
             agregarProductoToolStripMenuItem.Text = "Agregar Producto";
+            agregarProductoToolStripMenuItem.Click += agregarProductoToolStripMenuItem_Click;
             // 
             // panel3
             // 
@@ -224,7 +247,7 @@
             panel3.Controls.Add(pctbImagenSaludo);
             panel3.Location = new Point(342, 51);
             panel3.Name = "panel3";
-            panel3.Size = new Size(786, 59);
+            panel3.Size = new Size(840, 59);
             panel3.TabIndex = 2;
             // 
             // lblSaludo
@@ -252,7 +275,7 @@
             panel4.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             panel4.Location = new Point(342, 503);
             panel4.Name = "panel4";
-            panel4.Size = new Size(786, 35);
+            panel4.Size = new Size(840, 35);
             panel4.TabIndex = 3;
             // 
             // panelDisplay
@@ -260,19 +283,20 @@
             panelDisplay.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panelDisplay.Location = new Point(342, 110);
             panelDisplay.Name = "panelDisplay";
-            panelDisplay.Size = new Size(786, 393);
+            panelDisplay.Size = new Size(840, 393);
             panelDisplay.TabIndex = 4;
             // 
             // MenuPrinsipalForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1128, 538);
+            ClientSize = new Size(1182, 538);
             Controls.Add(panelDisplay);
             Controls.Add(panel4);
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             Name = "MenuPrinsipalForm";
             Text = "MenuPrinsipalForm";
@@ -304,7 +328,6 @@
         private MenuStrip menuStrip1;
         private ToolStripMenuItem mostrarUsuarioToolStripMenuItem;
         private ToolStripMenuItem mostrarMenbersToolStripMenuItem;
-        private ToolStripMenuItem agregarProveedorToolStripMenuItem;
         private ToolStripMenuItem agregarProductoToolStripMenuItem;
         private Label lblSaludo;
         private PictureBox pctbImagenSaludo;
@@ -314,5 +337,8 @@
         private Button btnAgregarUsuario;
         private Button btnAgregarCliente;
         private Button btnHacerVenta;
+        private ToolStripMenuItem verUsuarioToolStripMenuItem;
+        private ToolStripMenuItem editarCategoriaToolStripMenuItem;
+        private ToolStripMenuItem editarProveedorToolStripMenuItem;
     }
 }

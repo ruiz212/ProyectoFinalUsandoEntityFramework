@@ -12,7 +12,7 @@ namespace SuperLaEspoeranzaEntityFrameworck.Controlador
     {
         SuperLaEsperanzaDbContex SuperLaEsperanzaDbContex = new SuperLaEsperanzaDbContex();
 
-        public  void AgregarCliente(ClienteDOT clienteDto)
+        public void AgregarCliente(ClienteDOT clienteDto)
         {
             var clienteAgregar = new Models.Cliente
             {
@@ -25,9 +25,55 @@ namespace SuperLaEspoeranzaEntityFrameworck.Controlador
                 Foto = clienteDto.Foto,
                 PuntosCompra = 0
             };
-            SuperLaEsperanzaDbContex.Clientes.Add(clienteAgregar);
+            SuperLaEsperanzaDbContex.Cliente.Add(clienteAgregar);
             SuperLaEsperanzaDbContex.SaveChanges();
             MessageBox.Show("Cliente agregado correctamente", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        public List<ClienteDOT> ObtenerClientes()
+        {
+            var clientes = SuperLaEsperanzaDbContex.Cliente
+                .ToList();
+            List<ClienteDOT> clienteDtos = new List<ClienteDOT>();
+            foreach (var cliente in clientes)
+            {
+                clienteDtos.Add(new ClienteDOT
+                {
+                    IdCliente = cliente.IdCliente,
+                    Nombre = cliente.Nombre,
+                    Telefono = cliente.Telefono,
+                    Direccion = cliente.Direccion,
+                    TipoMembresia = cliente.TipoMenbresia,
+                    MembresiaEstado = cliente.MenbresiaEstado,
+                    Foto = cliente.Foto,
+                    PuntosCompra = cliente.PuntosCompra
+                });
+            }
+            return clienteDtos;
+        }
+
+        public List<ClienteDOT> ObtenerClientesPorTipoMenbrecia(string tipoMenbresia)
+        {
+            var clientes = SuperLaEsperanzaDbContex.Cliente
+                .Where(c => c.TipoMenbresia == tipoMenbresia)
+                .ToList();
+
+            List<ClienteDOT> clienteDtos = new List<ClienteDOT>();
+            foreach (var cliente in clientes)
+            {
+                clienteDtos.Add(new ClienteDOT
+                {
+                    IdCliente = cliente.IdCliente,
+                    Nombre = cliente.Nombre,
+                    Telefono = cliente.Telefono,
+                    Direccion = cliente.Direccion,
+                    TipoMembresia = cliente.TipoMenbresia,
+                    MembresiaEstado = cliente.MenbresiaEstado,
+                    Foto = cliente.Foto,
+                    PuntosCompra = cliente.PuntosCompra
+                });
+            }
+            return clienteDtos;
         }
     }
 }

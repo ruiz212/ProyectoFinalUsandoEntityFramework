@@ -127,6 +127,7 @@
             btnAutoCompletarNombreDeUsuari.Size = new Size(43, 35);
             btnAutoCompletarNombreDeUsuari.TabIndex = 3;
             btnAutoCompletarNombreDeUsuari.UseVisualStyleBackColor = true;
+            btnAutoCompletarNombreDeUsuari.Click += btnAutoCompletarNombreDeUsuari_Click;
             // 
             // cmbTipoDeUsuario
             // 

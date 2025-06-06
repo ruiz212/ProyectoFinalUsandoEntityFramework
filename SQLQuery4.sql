@@ -1,0 +1,2 @@
+SELECT * FROM Proveedor
+GO

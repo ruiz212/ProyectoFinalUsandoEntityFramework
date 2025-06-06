@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LogInForm));
             panel1 = new Panel();
             circularProgressBar1 = new Krypton.Toolkit.Suite.Extended.Circular.ProgressBar.CircularProgressBar();
             btnComprobar = new Button();
@@ -188,6 +189,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(570, 267);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "LogInForm";
             Text = "LogInForm";
             panel1.ResumeLayout(false);
