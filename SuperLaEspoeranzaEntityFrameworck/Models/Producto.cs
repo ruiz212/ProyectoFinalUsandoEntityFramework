@@ -19,7 +19,6 @@ namespace SuperLaEspoeranzaEntityFrameworck.Models
 
         public string IdProveedor { get; set; }
         public Proveedor Proveedor { get; set; }
-
         public string IdCategoria { get; set; }
         public Categoria Categoria { get; set; }
 

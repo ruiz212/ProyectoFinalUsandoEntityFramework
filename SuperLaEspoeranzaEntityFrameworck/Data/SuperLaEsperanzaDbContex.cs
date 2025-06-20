@@ -26,7 +26,6 @@ namespace SuperLaEspoeranzaEntityFrameworck.Data
             optionsBuilder.UseSqlServer(@"Server = localhost\SQLDEV; database = GestionComercial; trusted_connection = true; trustserverCertificate = true;");
         } 
 
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Filtro global para entidades con campo Estado
